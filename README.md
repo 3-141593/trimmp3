@@ -11,5 +11,5 @@ To keep the original file name:
 This will output your_file_trimmed.mp3  
 
 To change the file name:  
-```python mp4tomp3.py your_file.mp3 [start time] [end time] new_file_name.mp3```  
+```python trimmp3.py your_file.mp3 [start time] [end time] new_file_name.mp3```  
 This will output new_file_name.mp3
